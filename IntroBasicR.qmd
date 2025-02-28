@@ -1,0 +1,6 @@
+---
+title: "lab2"
+format: html
+editor: visual
+---
+
